@@ -21,4 +21,10 @@ Here are some ideas to get you started:
     <a href="#"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a-->
     <a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
+  <img src="https://avatars3.githubusercontent.com/u/68463985?s=400&v=4" align="right" width="25%"/>
+  
+Programmer, Writer, Poet, It's Me Al-Taie 🌸 I'm coming strongly, It's just a matter of time.
 
+- 🔭 I'm a programmer
+- 🔍 I have 1 Python Module right now:
+  - Quick-Mailer ([Pypi](https://pypi.org/project/quick-mailer), [Github](https://github.com/Al-Taie/quick-mailer))
