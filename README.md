@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 <p align="center">
     <!--a href="#"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a-->
-       <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=E4415F" alt="Star Badge"/>  
+    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=E4415F" alt="Star Badge"/>  
     <a href="https://www.linkedin.com/in/ahmedmones"><img src="https://img.shields.io/badge/linkedin-%23E4415F?style=flat&logo=linkedin&logoColor=white"/></a>
-       <a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=Al-Taie&logo=GitHub&label=Profile%20visits&color=E4415F&logoColor=white&style=flat" alt="Al-Taie" />
 </p>
-  <img src="https://avatars3.githubusercontent.com/u/68463985?s=400&v=4" align="right" width="25%"/>
- 
+
+  <img src="https://images.weserv.nl/?url=avatars3.githubusercontent.com/u/68463985?s=300&v=4&fit=cover&mask=circle" align="right" width="25%" />
+
   
 <!-- - 🔭 I'm a programmer
 - 🔍 I have 1 Python Module right now:
@@ -37,17 +38,17 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Taie&layout=compact&langs_count=8&theme=dracula&hide_border=true)](https://github.com/Al-Taie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Taie&layout=compact&langs_count=8&theme=dracula&hide_border=true)](#)
 
 #### Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Al-Taie&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=F8D866&hide_border=true" alt="Al-Taie" /> </h1>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-Taie&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=F8D866&hide_border=true)](#)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Al-Taie&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Al-Taie&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](#)
 
 #### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Al-Taie&theme=dracula&column=7&icon_color=F8D866&hide_border=true)](https://github.com/Al-Taie)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Al-Taie&theme=dracula&column=7&icon_color=F8D866&hide_border=true)](#)
 
 
 #### Top Repositories
