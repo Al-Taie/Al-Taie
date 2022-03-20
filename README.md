@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h2> Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h1 align="center">I'm Ahmed Al-Taie 🌸</h1>
 <p align="center">
     <!--a href="#"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
@@ -36,8 +36,16 @@ Andoird & Desktop Developer using Kotlin & Python.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Taie&layout=compact&langs_count=8)](https://github.com/Al-Taie/github-readme-stats)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Al-Taie&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="Al-Taie" /> </h1>
+#### Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Al-Taie&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="Al-Taie" /> </h1>
+
+#### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Al-Taie&theme=dracula&column=7)](https://github.com/Al-Taie)
+
 
 #### Top Repositories
 
@@ -48,8 +56,6 @@ Andoird & Desktop Developer using Kotlin & Python.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Al-Taie&repo=quick-mailer)](https://github.com/Al-Taie/quick-mailer)
 
 
-#### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Taie&layout=compact&langs_count=8)](https://github.com/Al-Taie/github-readme-stats)
 
 
