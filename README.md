@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <p align="center">
     <!--a href="#"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a-->
-        <a href="https://www.linkedin.com/in/ahmedmones"><img src="https://img.shields.io/badge/linkedin-%23E4415F?style=flat&logo=linkedin&logoColor=white"/></a>
-        <a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Al-Taie&logo=GitHub&label=Profile%20visits&color=E4415F&logoColor=white&style=flat" alt="Al-Taie" />
-
+       <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=E4415F" alt="Star Badge"/>  
+    <a href="https://www.linkedin.com/in/ahmedmones"><img src="https://img.shields.io/badge/linkedin-%23E4415F?style=flat&logo=linkedin&logoColor=white"/></a>
+       <a href="https://www.instagram.com/9_Tay"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=Al-Taie&logo=GitHub&label=Profile%20visits&color=E4415F&logoColor=white&style=flat" alt="Al-Taie" />
 </p>
   <img src="https://avatars3.githubusercontent.com/u/68463985?s=400&v=4" align="right" width="25%"/>
  
