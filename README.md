@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi <a href="#"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></a></h2>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=DD6387&center=true&vCenter=true&multiline=true&width=440&height=120&lines=I'm+Ahmed+Al-Taie+%F0%9F%8C%B8;Android+Developer+Using+Kotlin;Desktop+Developer+Using+Python;+++++)](https://git.io/typing-svg)
-
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=DD6387&center=true&vCenter=true&multiline=true&width=440&height=120&lines=I'm+Ahmed+Al-Taie+%F0%9F%8C%B8;Android+Developer+Using+Kotlin;Desktop+Developer+Using+Python;+++++)](#)
+<!-- (https://git.io/typing-svg) -->
 <p align="center">
     <!--a href="#"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a-->
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <a href="#"><img src="https://komarev.com/ghpvc/?username=Al-Taie&logo=GitHub&label=Profile%20visits&color=E4415F&logoColor=white&style=flat" alt="Al-Taie" /></a>
 </p>
 
-  <img src="https://images.weserv.nl/?url=avatars3.githubusercontent.com/u/68463985?s=300&v=4&fit=cover&mask=circle" align="right" width="25%" />
+  <a href="#"><img src="https://images.weserv.nl/?url=avatars3.githubusercontent.com/u/68463985?s=300&v=4&fit=cover&mask=circle" align="right" width="25%" /></a>
 
   
 <!-- - 🔭 I'm a programmer
