@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Al-Taie&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=F8D866&hide_border=true" alt="Al-Taie" /> </h1>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Al-Taie&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
 #### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Al-Taie&theme=dracula&column=7&icon_color=F8D866&hide_border=true)](https://github.com/Al-Taie)
