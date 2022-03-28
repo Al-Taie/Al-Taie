@@ -62,6 +62,11 @@ Here are some ideas to get you started:
 <hr>
 
 <div width="100%" align="center">
+  <a align="center" href="https://github.com/Al-Taie/CodeSignal" title="CodeSignal Solutions"><img align="center" height="%100" width="%100" src="https://github-readme-stats.vercel.app/api/pin/?username=Al-Taie&repo=CodeSignal&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10"></a>
+</div>
+<br/>
+
+<div width="100%" align="center">
   <a align="left" href="https://github.com/Al-Taie/MoviesApp" title="Movies App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Al-Taie&repo=MoviesApp&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10"></a>
     <a align="right" href="https://github.com/Al-Taie/SuperHero" title="Super Heros"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Al-Taie&repo=SuperHero&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10"></a>
 </div>
