@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 #### Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-Taie&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=F8D865&hide_border=true)](#)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-Taie&show_icons=true&hide_rank=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=F8D865&hide_border=true)](#)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Al-Taie&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](#)
 
