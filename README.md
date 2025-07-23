@@ -106,7 +106,3 @@ Here are some ideas to get you started:
 <h4 align="center">
   <a href="https://github.com/Al-Taie?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-
-
-
