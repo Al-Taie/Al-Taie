@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <a href="#"><img src="https://komarev.com/ghpvc/?username=Al-Taie&logo=GitHub&label=Profile%20visits&color=E4415F&logoColor=white&style=flat" alt="Al-Taie" /></a>
 </p>
 
-  <a href="#"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/68463985?v=4&fit=cover&mask=circle" align="right" width="25%" /></a>
+  <a href="#"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/68463985?v=5&fit=cover&mask=circle" align="right" width="25%" /></a>
 
   
 <!-- - 🔭 I'm a programmer
