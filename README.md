@@ -86,7 +86,7 @@ I am a **Senior Android Developer** with over **5 years of experience** speciali
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-Taie&theme=react-dark&bg_color=30,e96443,904e95&hide_border=true&color=ffffff&line=3DDC84&point=ffffff" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-Taie&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 <br/>
 
