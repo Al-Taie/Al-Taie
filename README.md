@@ -72,12 +72,6 @@ I am a **Senior Android Developer** with over **5 years of experience** speciali
   <img src="./profile/top-langs.svg" alt="Top Languages" width="40%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Al-Taie&theme=dracula&column=7&icon_color=F8D866&hide_border=true" alt="Trophies" width="100%" />
-</div>
-
 ---
 
 ## 🏆 Top Repositories
