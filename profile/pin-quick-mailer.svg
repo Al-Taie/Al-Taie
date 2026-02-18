@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fff;
+            fill: #ff6e96;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -21,9 +21,9 @@
             .header { font-size: 15.5px; }
           }
           
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }
-    .icon { fill: #fff }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2 }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2 }
+    .icon { fill: #F8D866 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
     .badge rect { opacity: 0.2 }
   
@@ -51,16 +51,6 @@
         </style>
 
         
-        <defs>
-          <linearGradient
-            id="gradient"
-            gradientTransform="rotate(30)"
-            gradientUnits="userSpaceOnUse"
-          >
-            <stop offset="0%" stop-color="#e96443" />,<stop offset="100%" stop-color="#904e95" />
-          </linearGradient>
-        </defs>
-        
 
         <rect
           data-testid="card-bg"
@@ -68,9 +58,9 @@
           y="0.5"
           rx="10"
           height="99%"
-          stroke="#fff"
+          stroke="#E4415F"
           width="399"
-          fill="url(#gradient)"
+          fill="#282a36"
           stroke-opacity="1"
         />
 
