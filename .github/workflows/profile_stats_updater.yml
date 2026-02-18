@@ -28,10 +28,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        with:
           SETTING_JSON: conf/github-profile-3d-contrib.json
-          # Force output to the same directory as other stats
-          OUTPUT_DIR: profile
+
+      - name: Move 3D files to profile directory
+        run: |
+          mkdir -p profile
+          mv profile-3d-contrib/* profile/
+          rm -rf profile-3d-contrib
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
