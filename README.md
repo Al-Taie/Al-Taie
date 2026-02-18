@@ -69,9 +69,9 @@ I am a **Senior Android Developer** with over **5 years of experience** speciali
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/profile-night-rainbow.svg" />
-    <img alt="3D Skyline" src="./profile/profile-night-rainbow.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/profile-3d-dracula.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/profile-3d-dracula.svg" />
+    <img alt="3D Skyline" src="./profile/profile-3d-dracula.svg" width="100%" />
   </picture>
 </div>
 <br/>
