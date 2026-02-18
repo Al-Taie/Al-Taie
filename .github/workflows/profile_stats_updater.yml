@@ -20,8 +20,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/github-contribution-grid-snake.svg
-            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
+            profile/github-contribution-grid-snake-dark.svg?color_snake=#F8D866&color_dots=#282a36,#44475a,#6272a4,#bd93f9,#ff79c6&color_background=#282a36
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
