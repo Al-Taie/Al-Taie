@@ -40,7 +40,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Al-Taie&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&hide_border=true
+          options: username=Al-Taie&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -48,7 +48,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Al-Taie&layout=donut&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&hide_border=true
+          options: username=Al-Taie&layout=donut&langs_count=8&theme=dracula&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -56,7 +56,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=CodeSignal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=CodeSignal&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-CodeSignal.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -64,7 +64,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=Marvel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=Marvel&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-Marvel.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -72,7 +72,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=MoviesApp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=MoviesApp&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-MoviesApp.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -80,7 +80,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=KanbanBoard&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=KanbanBoard&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-KanbanBoard.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -88,7 +88,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=SuperHero&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=SuperHero&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-SuperHero.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -96,7 +96,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=TriviaGame&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=TriviaGame&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-TriviaGame.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -104,7 +104,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=Covid19Vaccine&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=Covid19Vaccine&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-Covid19Vaccine.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -112,7 +112,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=Notes&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=Notes&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-Notes.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -120,7 +120,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=SpendingTracker&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=SpendingTracker&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-SpendingTracker.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -128,7 +128,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Al-Taie&repo=quick-mailer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=10
+          options: username=Al-Taie&repo=quick-mailer&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-quick-mailer.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -136,7 +136,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=Al-Taie&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&hide_border=true
+          options: username=Al-Taie&layout=compact&theme=dracula&hide_border=true
           path: profile/wakatime.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 

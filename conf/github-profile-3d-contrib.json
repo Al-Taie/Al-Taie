@@ -1,0 +1,22 @@
+[
+     {
+          "type": "rainbow",
+          "fileName": "profile-night-rainbow.svg",
+          "saturation": "80%",
+          "contribLightness": [
+               "#282a36",
+               "#44475a",
+               "#6272a4",
+               "#bd93f9",
+               "#ff79c6"
+          ],
+          "duration": "15s",
+          "hueRatio": -7,
+          "backgroundColor": "#282a36",
+          "foregroundColor": "#f8f8f2",
+          "strongColor": "#ff79c6",
+          "weakColor": "#282a36",
+          "radarColor": "#bd93f9",
+          "growingAnimation": true
+     }
+]
