@@ -15,6 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-contribution-grid-snake.svg
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -109,6 +117,14 @@ jobs:
           card: pin
           options: username=Al-Taie&repo=quick-mailer&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-quick-mailer.svg
+          token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate WakaTime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=Al-Taie&layout=compact&theme=dracula&hide_border=true
+          path: profile/wakatime.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

@@ -68,8 +68,27 @@ I am a **Senior Android Developer** with over **5 years of experience** speciali
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="40%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="./profile/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+<br/>
+
+<div align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</div>
+
+
+<div align="center">
+  <img src="./profile/wakatime.svg" alt="WakaTime Stats" width="80%" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Al-Taie&theme=dracula&column=7&icon_color=F8D866&hide_border=true" alt="Trophies" width="100%" />
 </div>
 
 ---
