@@ -69,6 +69,15 @@ I am a **Senior Android Developer** with over **5 years of experience** speciali
 
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/profile-night-rainbow.svg" />
+    <img alt="3D Skyline" src="./profile/profile-night-rainbow.svg" width="100%" />
+  </picture>
+</div>
+<br/>
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
     <img alt="Snake Animation" src="./profile/github-contribution-grid-snake.svg" width="100%" />
@@ -77,19 +86,23 @@ I am a **Senior Android Developer** with over **5 years of experience** speciali
 <br/>
 
 <div align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-</div>
-
-
-<div align="center">
-  <img src="./profile/wakatime.svg" alt="WakaTime Stats" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-Taie&theme=react-dark&bg_color=30,e96443,904e95&hide_border=true&color=ffffff&line=3DDC84&point=ffffff" alt="Activity Graph" width="100%" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Al-Taie&theme=dracula&column=7&icon_color=F8D866&hide_border=true" alt="Trophies" width="100%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
+
+[//]: # (Keep this commented for now)
+[//]: # (<div align="center">)
+
+[//]: # (  <img src="./profile/wakatime.svg" alt="WakaTime Stats" width="80%" />)
+
+[//]: # (</div>)
+
+[//]: # (<br/>)
 
 ---
 
