@@ -1,22 +1,16 @@
 [
      {
-          "type": "rainbow",
-          "fileName": "profile-night-rainbow.svg",
-          "saturation": "80%",
-          "contribLightness": [
-               "#282a36",
-               "#44475a",
-               "#6272a4",
-               "#bd93f9",
-               "#ff79c6"
-          ],
-          "duration": "15s",
-          "hueRatio": -7,
+          "type": "season",
+          "fileName": "profile-3d-dracula.svg",
           "backgroundColor": "#282a36",
           "foregroundColor": "#f8f8f2",
           "strongColor": "#ff79c6",
-          "weakColor": "#282a36",
+          "weakColor": "#44475a",
           "radarColor": "#bd93f9",
-          "growingAnimation": true
+          "growingAnimation": true,
+          "contribColors1": ["#44475a", "#6272a4", "#bd93f9", "#ff79c6", "#8be9fd"],
+          "contribColors2": ["#44475a", "#6272a4", "#bd93f9", "#ff79c6", "#8be9fd"],
+          "contribColors3": ["#44475a", "#6272a4", "#bd93f9", "#ff79c6", "#8be9fd"],
+          "contribColors4": ["#44475a", "#6272a4", "#bd93f9", "#ff79c6", "#8be9fd"]
      }
 ]
