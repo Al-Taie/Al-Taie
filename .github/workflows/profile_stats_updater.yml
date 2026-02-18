@@ -48,7 +48,6 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          card: top-langs
           options: username=Al-Taie&layout=donut&langs_count=8&theme=dracula&icon_color=F8D866&border_color=E4415F&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
@@ -129,7 +128,6 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          card: pin
           options: username=Al-Taie&repo=quick-mailer&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-quick-mailer.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
@@ -137,7 +135,6 @@ jobs:
       - name: Generate WakaTime card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: wakatime
           card: wakatime
           options: username=Al-Taie&layout=compact&theme=dracula&icon_color=F8D866&border_color=E4415F&hide_border=true
           path: profile/wakatime.svg
