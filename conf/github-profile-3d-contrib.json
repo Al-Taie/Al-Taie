@@ -8,15 +8,15 @@
                "#44475a",
                "#6272a4",
                "#bd93f9",
-               "#ff79c6"
+               "#F8D866"
           ],
           "duration": "15s",
           "hueRatio": -7,
           "backgroundColor": "#282a36",
           "foregroundColor": "#f8f8f2",
-          "strongColor": "#ff79c6",
+          "strongColor": "#F8D866",
           "weakColor": "#282a36",
-          "radarColor": "#bd93f9",
+          "radarColor": "#E4415F",
           "growingAnimation": true
      }
 ]

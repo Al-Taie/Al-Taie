@@ -40,7 +40,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Al-Taie&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&hide_border=true
+          options: username=Al-Taie&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&icon_color=F8D866&border_color=E4415F&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -48,7 +48,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Al-Taie&layout=donut&langs_count=8&theme=dracula&hide_border=true
+          card: top-langs
+          options: username=Al-Taie&layout=donut&langs_count=8&theme=dracula&icon_color=F8D866&border_color=E4415F&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -128,6 +129,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
+          card: pin
           options: username=Al-Taie&repo=quick-mailer&theme=dracula&icon_color=F8D866&border_color=E4415F&border_radius=10
           path: profile/pin-quick-mailer.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
@@ -136,7 +138,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=Al-Taie&layout=compact&theme=dracula&hide_border=true
+          card: wakatime
+          options: username=Al-Taie&layout=compact&theme=dracula&icon_color=F8D866&border_color=E4415F&hide_border=true
           path: profile/wakatime.svg
           token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
