@@ -16,8 +16,9 @@
   </p>
 </div>
 
-<a align="center" href="https://user-badge.committers.top/iraq/Al-Taie"><img src="https://user-badge.committers.top/iraq/Al-Taie.svg" alt="Instagram"/></a>
-
+<div align="center">
+<a href="https://user-badge.committers.top/iraq/Al-Taie"><img src="https://user-badge.committers.top/iraq/Al-Taie.svg" alt="Instagram"/></a>
+</div>
 ---
 
 ## 👨‍💻 About Me
