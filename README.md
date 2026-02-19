@@ -3,7 +3,7 @@
   <h1>Hi, I'm Ahmed Mones (Al-Taie)</h1>
 
   <!-- Updated color to Dracula Pink (#ff79c6) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff79c6&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Senior+Android+Developer;Compose+Multiplatform+Expert;Open+Source+Contributor;Tech+Lead+%26+Mentor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff79c6&center=true&vCenter=true&multiline=true&width=500&height=140&lines=Senior+Android+Developer;Compose+Multiplatform+Developer;Open+Source+Contributor;Mentor)](https://git.io/typing-svg)
 
   <p>
     <a href="https://linkedin.com/in/ahmedmones"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
