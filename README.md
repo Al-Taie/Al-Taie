@@ -118,8 +118,14 @@ I am a **Senior Android Developer** with over **5 years of experience** speciali
   <a href="https://github.com/Al-Taie/Notes"><img src="./profile/pin-Notes.svg" height="110" /></a>
 </div>
 
----
-
 <div align="center">
-  <a href="https://github.com/Al-Taie?tab=repositories">🔎 <b>Show More Repositories</b> 🔍</a>
+  <br/>
+  <a href="https://github.com/Al-Taie?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎_Show_All_Repositories-CF9FFF?style=for-the-badge&logoColor=white" alt="Show All Repositories"/>
+  </a>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=120&section=footer" alt="Footer" width="100%"/>
 </div>
