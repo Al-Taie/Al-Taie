@@ -1,4 +1,8 @@
 <div align="center">
+
+<!-- Banner / Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=120&section=header&animation=fadeIn" alt="Header" width="100%"/>
+  
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Hi GIF">
   <h1>Hi, I'm Ahmed Mones (Al-Taie)</h1>
 
@@ -127,5 +131,5 @@ I am a **Senior Android Developer** with over **5 years of experience** speciali
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=120&section=footer" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=120&section=footer&animation=fadeIn" alt="Footer" width="100%"/>
 </div>
