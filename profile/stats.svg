@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ahmed Mones' GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 39, Total Commits  : 1488, Total PRs: 96, Total PRs Merged: 88, Merged PRs Percentage: 91.67, Total PRs Reviewed: 78, Total Issues: 5, Total Discussions Started: 1, Total Discussions Answered: 1, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 39, Total Commits  : 1487, Total PRs: 96, Total PRs Merged: 88, Merged PRs Percentage: 91.67, Total PRs Reviewed: 78, Total Issues: 5, Total Discussions Started: 1, Total Discussions Answered: 1, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.70472941581978;
+        stroke-dashoffset: 98.71508398324666;
       }
     }
   
